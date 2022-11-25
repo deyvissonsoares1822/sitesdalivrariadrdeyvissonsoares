@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Produtos - Barbearia Alura</title>
+
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src="hello.jpg"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<ul class="produtos">
+				<li>
+					<h2>Jovem Sonhador</h2>
+				<img src="hel.png"  >
+					<p class="produto-descricao">Jovem sonhador</p>
+					<p class="produto-preco">R$ 25,00</p>
+				</li>
+				<li>
+					<h2>Oceano Profundo</h2>
+					<img src="li.jpg">
+					<p class="produto-descricao">Poema:Oceano profundo</p>
+					<p class="produto-preco">R$ 18,00</p>
+				</li>
+				
+			</ul>
+		</main>
+
+		<footer>
+			<img src="o.jpg">
+			<p class="copyright">&copy;Escritor:Deyvisson Soares</p>
+		</footer>
+	</body>
+</html>
